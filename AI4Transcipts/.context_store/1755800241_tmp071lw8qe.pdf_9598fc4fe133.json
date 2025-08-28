@@ -1,0 +1,47 @@
+{
+  "title": "Introduction aux réseaux de neurones",
+  "doc_type": "pdf",
+  "size": {
+    "chars": 11550,
+    "words": 1826,
+    "pages_or_slides": 60
+  },
+  "summary": "Ce document présente une introduction aux réseaux de neurones, en détaillant les composants d'un réseau de neurones simple, les différents types de réseaux, ainsi que les concepts fondamentaux de l'intelligence artificielle et du machine learning. Il inclut aussi des travaux pratiques en Python pour aider à l'assimilation des concepts.",
+  "key_points": [
+    "Introduction aux réseaux de neurones et leurs composants.",
+    "Différents types de réseaux en fonction des problèmes.",
+    "Évaluation sous forme de Q&A et travaux pratiques."
+  ],
+  "actions": [
+    "Suivre le cours de réseaux de neurones cette semaine.",
+    "Préparer les lectures sur le deep learning.",
+    "Compléter les travaux pratiques en Python."
+  ],
+  "tech": {
+    "datasets_or_tables": [],
+    "models_or_algorithms": [
+      "Perceptron",
+      "Fonctions d'activation (ReLU, Sigmoid, Softmax, etc.)",
+      "Algorithme de Descente de Gradient"
+    ],
+    "metrics": [
+      "Fonction d'objectif (Loss Functions, Binary Cross-Entropy, Categorical Cross-Entropy)"
+    ],
+    "code_artifacts": []
+  },
+  "glossary": [
+    {
+      "term": "Réseaux de neurones",
+      "definition": "Modèles informatiques inspirés du cerveau humain."
+    },
+    {
+      "term": "Intelligence Artificielle",
+      "definition": "Création d'agents simulant un comportement intelligent."
+    },
+    {
+      "term": "Machine Learning",
+      "definition": "Apprentissage par des modèles à partir de données."
+    }
+  ],
+  "file": "tmp071lw8qe.pdf"
+}

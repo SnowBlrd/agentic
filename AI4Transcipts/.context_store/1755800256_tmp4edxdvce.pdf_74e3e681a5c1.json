@@ -1,0 +1,58 @@
+{
+  "title": "Architecture Deep Learning",
+  "doc_type": "pdf",
+  "size": {
+    "chars": 5010,
+    "words": 788,
+    "pages_or_slides": 90
+  },
+  "summary": "Le document présente un cours sur les architectures des modèles de deep learning, abordant des sujets comme l'introduction au deep learning, les typologies de méthodologies, et les structures classiques telles que MLP, CNN, RNN, et Self-Attention.",
+  "key_points": [
+    "Le cours se concentre sur les architectures et méthodologies du deep learning.",
+    "Différences entre DL, ML et NN.",
+    "Concepts comme le Few-shot learning et le Zero-shot learning.",
+    "Structure d'un modèle deep learning et ses différents types.",
+    "NLP et séquence à séquence (seq2seq)."
+  ],
+  "actions": [],
+  "tech": {
+    "datasets_or_tables": [],
+    "models_or_algorithms": [
+      "MLP",
+      "CNN",
+      "RNN",
+      "LSTM",
+      "Transformer",
+      "Self Attention"
+    ],
+    "metrics": [
+      "Categorical Cross-Entropy"
+    ],
+    "code_artifacts": [
+      "tf_keras.layers.Attention"
+    ]
+  },
+  "glossary": [
+    {
+      "term": "Deep Learning",
+      "definition": "Une méthode de machine learning utilisant des réseaux de neurones pour apprendre des représentations de données."
+    },
+    {
+      "term": "MLP",
+      "definition": "Multi-Layer Perceptron, un type de réseau de neurones feedforward."
+    },
+    {
+      "term": "CNN",
+      "definition": "Convolutional Neural Network, public pour le traitement des données ayant une structure en réseau, comme les images."
+    },
+    {
+      "term": "RNN",
+      "definition": "Recurrent Neural Network, un type de réseau de neurones idéal pour traiter des séquences."
+    },
+    {
+      "term": "Self-Attention",
+      "definition": "Mécanisme permettant à un modèle de peser différents éléments d'une séquence d'entrée."
+    }
+  ],
+  "file": "tmp4edxdvce.pdf"
+}

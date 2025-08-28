@@ -1,0 +1,49 @@
+{
+  "title": "GENERATIVE ADVERSARIAL NETWORKS",
+  "doc_type": "pdf",
+  "size": {
+    "chars": 8913,
+    "words": 1394,
+    "pages_or_slides": 33
+  },
+  "summary": "Le document présente une introduction aux réseaux antagonistes génératifs (GAN) et aux auto-encodeurs, décrivant leur architecture, leur fonctionnement ainsi que les défis associés. Il aborde divers modèles de GAN, ainsi qu'une introduction à Hugging Face.",
+  "key_points": [
+    "Introduction aux GAN et Auto-Encodeurs.",
+    "Fonctionnement des GAN avec un générateur et un discriminateur.",
+    "Problèmes courants lors de l'entraînement des GAN.",
+    "Différentes déclinaisons des GAN notamment DCGAN, CycleGAN et Conditional GAN."
+  ],
+  "actions": [],
+  "tech": {
+    "datasets_or_tables": [],
+    "models_or_algorithms": [
+      "DCGAN",
+      "CycleGAN",
+      "Conditional GAN",
+      "Wasserstein GAN"
+    ],
+    "metrics": [
+      "Fonctions de perte (minimax, Wasserstein)"
+    ],
+    "code_artifacts": []
+  },
+  "glossary": [
+    {
+      "term": "GAN",
+      "definition": "Réseaux antagonistes génératifs qui génèrent des données similaire à des données réelles."
+    },
+    {
+      "term": "Auto-Encoder",
+      "definition": "Modèle de réseau de neurones utilisé pour apprendre une représentation efficace."
+    },
+    {
+      "term": "Discriminateur",
+      "definition": "Partie d'un GAN qui distingue entre des données réelles et des données générées."
+    },
+    {
+      "term": "Générateur",
+      "definition": "Partie d'un GAN qui génère de nouvelles données à partir de bruit."
+    }
+  ],
+  "file": "tmpd0uf5aey.pdf"
+}

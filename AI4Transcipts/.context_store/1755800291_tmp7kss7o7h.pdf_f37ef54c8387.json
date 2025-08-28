@@ -1,0 +1,49 @@
+{
+  "title": "LLM Advance Topic",
+  "doc_type": "pdf",
+  "size": {
+    "chars": 5582,
+    "words": 831,
+    "pages_or_slides": 55
+  },
+  "summary": "Ce document présente un cours sur les modèles de langage (LLM) en incluant des aspects sur l'évaluation, le tuning et les modèles de diffusion.",
+  "key_points": [
+    "Introduction aux modèles LLM",
+    "Aspects abordés : évaluation, tuning, modèles de diffusion",
+    "Importance de définir des objectifs d'évaluation",
+    "Choix des méthodes d'évaluation et des datasets appropriés",
+    "Analyse des résultats et métriques comme BLEU et ROUGE"
+  ],
+  "actions": [
+    "Définir des objectifs spécifiques d'évaluation",
+    "Choisir des méthodes d'évaluation adaptées",
+    "Sélectionner des datasets 'golden' pour l'évaluation"
+  ],
+  "tech": {
+    "datasets_or_tables": [
+      "Datasets de référence pour l'évaluation des LLM"
+    ],
+    "models_or_algorithms": [
+      "Modèles LLM",
+      "Modèles de diffusion"
+    ],
+    "metrics": [
+      "BLEU",
+      "ROUGE"
+    ],
+    "code_artifacts": [
+      "https://github.com/GoogleCloudPlatform/asl-ml-immersion/blob/master/notebooks/vertex_genai/solutions/gen_ai_evaluation_service.ipynb"
+    ]
+  },
+  "glossary": [
+    {
+      "term": "LLM",
+      "definition": "Modèle de langage de grande taille"
+    },
+    {
+      "term": "Evaluation",
+      "definition": "Méthode utilisée pour mesurer la performance d'un modèle"
+    }
+  ],
+  "file": "tmp7kss7o7h.pdf"
+}

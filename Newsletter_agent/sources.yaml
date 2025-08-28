@@ -1,0 +1,16 @@
+arxiv:
+  queries:
+    - "large language models"
+    - "multimodal reasoning"
+    - "agents OR agentic workflows"
+  max_results: 15
+
+rss:
+  - https://lilianweng.github.io/feed.xml
+  - https://www.alignmentforum.org/feed.xml
+  - https://www.marktechpost.com/feed/
+  - https://huggingface.co/blog/feed.xml
+
+web:
+  - https://openai.com/index
+  - https://arxiv.org/

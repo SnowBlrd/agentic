@@ -1,0 +1,34 @@
+# Core
+agno>=1.7.10
+openai>=1.40.0
+python-dotenv>=1.0.1
+python-docx
+python-pptx
+pydantic>=2.8.0
+PyYAML>=6.0.1
+chardet
+
+# Vector DB
+qdrant-client>=1.9.2
+lancedb>=0.10.0
+
+# Sources & parsing
+duckduckgo-search>=6.1.10
+# nouveau nom pour éviter les warnings
+ddgs>=2.7.9
+newspaper4k>=0.9.3
+lxml_html_clean>=0.1.1
+feedparser>=6.0.11
+beautifulsoup4>=4.12.3
+requests>=2.32.3
+
+# Arxiv support
+arxiv>=2.1.0
+pypdf>=5.0.0
+
+# Images
+Pillow>=10.3.0
+imagehash>=4.3
+
+# UI
+streamlit>=1.36.0

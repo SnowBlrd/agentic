@@ -1,0 +1,51 @@
+{
+  "title": "LLM Introduction Course",
+  "doc_type": "pdf",
+  "size": {
+    "chars": 16714,
+    "words": 2495,
+    "pages_or_slides": 127
+  },
+  "summary": "Ce document présente un cours d'introduction aux modèles LLM (large language model), abordant divers aspects, y compris l'ingénierie des prompts, la recherche sémantique, et les applications d'agents LLM.",
+  "key_points": [
+    "Introduction aux modèles LLM",
+    "Prompt engineering et son rôle",
+    "Applications des modèles LLM dans divers domaines",
+    "Concepts de RAG et recherche sémantique",
+    "Importance de la qualité des prompts dans les modèles LLM"
+  ],
+  "actions": [
+    "Tester différents types de prompts pour optimiser l'utilisation des LLM",
+    "Explorer les outils de LangChain et LlamaIndex pour améliorer l'interaction avec les données",
+    "Réévaluer les approches de prompt engineering et d'ingénierie de fonctions"
+  ],
+  "tech": {
+    "datasets_or_tables": [],
+    "models_or_algorithms": [
+      "Large language models (LLM)",
+      "RAG (Retrieval-Augmented Generation)",
+      "LangChain",
+      "LlamaIndex"
+    ],
+    "metrics": [],
+    "code_artifacts": [
+      "GitHub repositories for prompt engineering",
+      "Jupyter Notebooks for LLM fine-tuning"
+    ]
+  },
+  "glossary": [
+    {
+      "term": "LLM",
+      "definition": "Large Language Model, un type de modèle d'intelligence artificielle conçu pour comprendre et générer du langage naturel."
+    },
+    {
+      "term": "Prompt engineering",
+      "definition": "L'art de formuler des requêtes pour obtenir des résultats précis d'un modèle LLM."
+    },
+    {
+      "term": "RAG",
+      "definition": "Retrieval-Augmented Generation, une approche combinant recherche d'informations et génération de texte."
+    }
+  ],
+  "file": "tmp2o799vbu.pdf"
+}
